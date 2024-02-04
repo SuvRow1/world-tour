@@ -1,5 +1,4 @@
 *{
- margin: 0;
  padding: 0;
 
 }
@@ -23,7 +22,7 @@
 .flex{
  img{
   max-width: 1170px;
-  
+
  }
 }
 .nav-header {
@@ -119,3 +118,27 @@ margin-left: 10px;
 
 }
 
+
+
+
+/* popular tours starts */
+
+.tours{
+margin-top: 100px;
+margin-left: 130px;
+margin-right: auto;
+}
+. tours p{
+ text-wrap:pretty wrap;
+}
+.tours-text h1{
+font-family: Mulish;
+font-weight: 800;
+font-size: 2.9em;
+}
+.section-2nd{
+ display:flex ;
+ align-items:flex-start;
+ justify-content: space-around;
+ margin-top: 75px;
+}
