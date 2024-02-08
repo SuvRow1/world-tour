@@ -203,3 +203,74 @@ justify-content: space-evenly;
 
 }
 
+.collage-pic3{
+ display: flex;
+ gap: 24px;
+ margin-top: 45px;
+ margin-left: 120px;
+}
+/* pic collage steps done here */
+
+
+/* WQ=hy choose us content start here  */
+
+
+.choice-container{
+ margin-left: 450px;
+ text-align: center;
+ margin-top: 55px;
+ background-color: lightblue;
+ border: 2px solid #FF5400;
+ width: 550px;
+}
+
+/* box -container content start here  */
+
+
+.box-container{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+
+
+}
+
+
+.box-1{
+width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+margin-top: 50px;
+padding: 25px;
+}
+
+
+.box-2{
+width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+margin-top: 50px;
+padding: 25px;
+
+}
+.box-3{
+
+ width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+margin-top: 50px;
+margin-left: 450px;
+padding: 25px;
+
+
+
+}
