@@ -1,31 +1,28 @@
-@media screen and (max-width:576px) {
+@media screen and (max-width: 932px) and (min-width: 430px){
+
 
 .header-container{
- display: grid;
- grid-template-columns: repeat(1,1fr);
-
-}
-
-.flex{
- display: grid;
- grid-template-columns: repeat(1,1fr);
-}
-.nav-header ul{
- display: grid;
- grid-template-columns: repeat(1,1fr);
- padding-top: 20px;
-
-}
-
-.banner1 img{
- left:5%;
-}
-.banner1-text{
- left:35%;
  
+  flex-direction: column;
+
 }
-.btn-special{
- margin-top: 10px;
+
+.nav-header ul{
+  display: grid;
 }
+
+
+ .section-1st{
+  margin-top: 75px;
+  margin-left: 0x;
+  margin-right: auto;
+  width: 390px;
+  height: 932px;
+ }
+.banner1{
+  margin-top: 0px;
+  margin-left: 35px;
+}
+
 
 }
